@@ -1,4 +1,4 @@
 # Basic Linux Commands
 
-First Session - My exprience learning *Linux* Commands
+First Day - My exprience learning *Linux* Commands
 
