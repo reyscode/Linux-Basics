@@ -1,0 +1,7 @@
+ls
+mkdir
+cat
+status
+commit
+branch
+log
